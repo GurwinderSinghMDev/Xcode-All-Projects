@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4EC4A6D-3465-484C-B207-E710FCC9E99B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19AC8047-8A11-4906-9471-DDF56588C738"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2A522E8-2572-4617-9308-29AE65011374"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC499B7B-E8EF-4FFE-8DDE-D6106AE45020"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CD0D15F-1AFD-40C7-BA56-75F1FBC7A1A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6841ED5-CF20-4A07-8235-44BE24D45EED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D94E6056-0740-49E9-954B-8EAA8F521302"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 843e6c2819e09fe8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.getter : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - b7188597d629e31c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.setter : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 6dfca96b811a231f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.modify : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 32cac4f84f839a82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.modify : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - ba18c313b2f80f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gurwinder_Singh_Green_Calculator.ViewController"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 5b65c379380994cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gurwinder_Singh_Green_Calculator.ViewController&gt;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 843e6c2819e09f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.getter : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - b7188597d629e37d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.setter : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 6dfca96b811a237e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.modify : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 32cac4f84f839ae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.calculatorModel.modify : Gurwinder_Singh_Green_Calculator.Gurwinder_Calculator_Model with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - ba18c313b2f80fe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gurwinder_Singh_Green_Calculator.ViewController"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "D94E6056-0740-49E9-954B-8EAA8F521302 - 5b65c379380994aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gurwinder_Singh_Green_Calculator.ViewController&gt;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26336BC4-154F-44C5-AB68-31D8A199697F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26336BC4-154F-44C5-AB68-31D8A199697F - e6ddd4c0d637032b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "26336BC4-154F-44C5-AB68-31D8A199697F - e6ddd4c0d6370304"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBF7135B-A964-4D60-BE1E-5004FE729B99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Calculator-Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28A72E55-0091-4EA2-983F-8FF5A61C703F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Calculator-Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "119B6BF3-EF62-4018-A9D5-902C7F6DE0E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Calculator-Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685 - 63a8ff80a604105b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.startNewNumber.getter : Swift.Bool"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685 - 7f6023aa1ea32857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.startNewNumber.setter : Swift.Bool"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685 - 9f4743dbfe583646"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.startNewNumber.modify : Swift.Bool"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685 - 9081952a09ec1a32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.startNewNumber.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685 - ba18c313b2f80fdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gurwinder_Singh_Green_Calculator.ViewController"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E392AE50-98D6-4D6D-8AA0-F73677F51685 - 5b65c37938099495"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gurwinder_Singh_Green_Calculator.ViewController&gt;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "376102AA-47B3-447B-AB39-10C5AE495CF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "376102AA-47B3-447B-AB39-10C5AE495CF0 - ba18c313b2f80e3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gurwinder_Singh_Green_Calculator.ViewController"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "376102AA-47B3-447B-AB39-10C5AE495CF0 - 5b65c37938099574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gurwinder_Singh_Green_Calculator.ViewController&gt;"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F784E88-467C-48CF-A8C1-1D455166CEC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "buttnTouched(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0273FD23-A73A-455B-96A6-984FCD76324D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "buttnTouched(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FDF0DE8-4A37-456A-A7CF-D08B74A0DF7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "buttnTouched(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3FDF0DE8-4A37-456A-A7CF-D08B74A0DF7F - fb145b61d31e9c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.buttnTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4072">
+               </Location>
+               <Location
+                  uuid = "3FDF0DE8-4A37-456A-A7CF-D08B74A0DF7F - fb145b61d31e9fb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.buttnTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "3940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "124BF6BB-671A-4EDC-B000-8AEEF149BCB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "buttnTouched(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "124BF6BB-671A-4EDC-B000-8AEEF149BCB4 - fb145b61d31e9c3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.buttnTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "4244">
+               </Location>
+               <Location
+                  uuid = "124BF6BB-671A-4EDC-B000-8AEEF149BCB4 - fb145b61d31e9c3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gurwinder_Singh_Green_Calculator.ViewController.buttnTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "Gurwinder-Singh-Green-Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gurwindersingh/Desktop/XCode%20Project/Gurwinder-Singh-Green-Calculator/Gurwinder-Singh-Green-Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "4176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A5E266E-2E8C-4D00-BF9C-99975F46ACF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gurwinder-Singh-Green-Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "buttnTouched(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
