@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="uIX-GU-xfc">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Travel_Companion" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="138" y="4"/>
+        </scene>
+        <!--Welcome View Controller-->
+        <scene sceneID="12M-Rl-Isy">
+            <objects>
+                <viewController id="uIX-GU-xfc" customClass="WelcomeViewController" customModule="Travel_Companion" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Pnt-sr-vP4">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RFq-y3-120">
+                                <rect key="frame" x="65" y="489" width="263" height="69"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" red="0.093159399926662445" green="0.36902302503585815" blue="0.54784029722213745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Start Exploring">
+                                    <fontDescription key="titleFontDescription" name=".SFNS-Regular" family=".AppleSystemUIFont" pointSize="28"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="goToLandmarkList:" destination="uIX-GU-xfc" eventType="touchUpInside" id="biU-uD-MxP"/>
+                                    <segue destination="I3j-i7-PWg" kind="presentation" identifier="segueToLandmarkList" id="DsT-gz-kgz"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Welcome to the Toronto Travel Companion! " lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dzu-x6-lFx">
+                                <rect key="frame" x="26" y="434" width="351" height="47"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                <color key="textColor" red="0.013572189956903458" green="0.56169980764389038" blue="0.99221795797348022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="gEp-ii-v9v"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="pWP-4j-Zof"/>
+                    <connections>
+                        <outlet property="startExploringButton" destination="RFq-y3-120" id="UJb-Sx-Ob8"/>
+                        <outlet property="welcomeLabel" destination="Dzu-x6-lFx" id="3Mc-TS-xyH"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wsX-FG-zIF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="834.35114503816794" y="3.5211267605633805"/>
+        </scene>
+        <!--Landmark List View Controller-->
+        <scene sceneID="vuF-UA-l7j">
+            <objects>
+                <viewController id="I3j-i7-PWg" customClass="LandmarkListViewController" customModule="Travel_Companion" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="D4V-gw-jSv">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UkH-P4-hbL">
+                                <rect key="frame" x="33" y="87" width="344" height="146"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" systemColor="systemOrangeColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" image="photo" catalog="system">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="CN TOWER">
+                                            <attributes>
+                                                <font key="NSFont" size="37" name="Helvetica"/>
+                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="landmarkButtonTapped:" destination="I3j-i7-PWg" eventType="touchUpInside" id="j51-oj-ik4"/>
+                                    <segue destination="K8P-Df-2bl" kind="show" identifier="segueToCN" id="xch-5D-hYU"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6g9-nG-HtB">
+                                <rect key="frame" x="36" y="456" width="339" height="141"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" systemColor="systemOrangeColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="DISTRICT">
+                                            <attributes>
+                                                <font key="NSFont" size="37" name="Helvetica"/>
+                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="landmarkButtonTapped:" destination="I3j-i7-PWg" eventType="touchUpInside" id="5oZ-QO-P5C"/>
+                                    <segue destination="K8P-Df-2bl" kind="show" identifier="segueToDistillery" id="AjD-qQ-xWh"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g8B-iI-BLb">
+                                <rect key="frame" x="36" y="272" width="339" height="145"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" systemColor="systemOrangeColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="ROYAL">
+                                            <attributes>
+                                                <font key="NSFont" size="37" name="Helvetica"/>
+                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="landmarkButtonTapped:" destination="I3j-i7-PWg" eventType="touchUpInside" id="4oJ-X3-qcf"/>
+                                    <segue destination="K8P-Df-2bl" kind="show" identifier="segueToROM" id="oke-wi-cty"/>
+                                </connections>
+                            </button>
+                            <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="3gx-Kl-fsP">
+                                <rect key="frame" x="33" y="87" width="342" height="510"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="EsA-8s-Zar"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <connections>
+                        <outlet property="landmarkButton1" destination="UkH-P4-hbL" id="p09-74-iO4"/>
+                        <outlet property="landmarkButton2" destination="g8B-iI-BLb" id="UO6-SN-j6g"/>
+                        <outlet property="landmarkButton3" destination="6g9-nG-HtB" id="9fi-XV-nl4"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vbv-FP-UTC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1797.709923664122" y="23.943661971830988"/>
+        </scene>
+        <!--Landmark Details View Controller-->
+        <scene sceneID="9pp-6Q-cK9">
+            <objects>
+                <viewController id="K8P-Df-2bl" customClass="LandmarkDetailsViewController" customModule="Travel_Companion" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ecX-AL-4AS">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Zuk-a9-npT">
+                                <rect key="frame" x="16" y="48" width="361" height="314"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Lorem" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="pVy-Hr-chy">
+                                <rect key="frame" x="16" y="381" width="361" height="412"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="cdo-HA-hn8"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="rPe-yx-rgZ"/>
+                    <connections>
+                        <outlet property="descriptionTextView" destination="pVy-Hr-chy" id="5tW-Id-pPA"/>
+                        <outlet property="landmarkImageView" destination="Zuk-a9-npT" id="IDd-AB-WD5"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="LCf-KL-Yhz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2747.3282442748091" y="71.83098591549296"/>
+        </scene>
+    </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="AjD-qQ-xWh"/>
+    </inferredMetricsTieBreakers>
+    <resources>
+        <image name="photo" catalog="system" width="128" height="93"/>
+        <systemColor name="labelColor">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
